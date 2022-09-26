@@ -25,6 +25,20 @@ body {
     padding-left: 6%;
 }
 
+.low-margin{
+    background-color: #f0f0f0;
+}
+
+
+.image-grid{
+    padding-top: 10px;
+}
+
+.low-margin h3{
+    padding-top: 5px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
 /* The actual timeline (the vertical ruler) */
 .main-timeline {
     position: relative;
@@ -542,8 +556,13 @@ background:#fff;
 
 #aboutUs .txtHead{
 background:#fff;
-padding:20px 10px;
+padding:20px 20px;
 }
+
+#aboutFood .txtHead{
+    background:#fff;
+    padding:0px 0px;
+    }
 #aboutUs .txtHead .fa {
 font-size: 58px;
 color: #5E5E5E;
@@ -554,6 +573,7 @@ font-size: 15px;
 color: #777777;
 padding: 20px;
 margin: 0px;
+margin-bottom: 15px;
 }
 /*parlex*/
 .bg-parlex {
