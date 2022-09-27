@@ -20,6 +20,11 @@ body {
     background: #E4E4E4;
 }
 
+.title-landing{
+    padding-top: 10%;
+    font-size: x-large;
+}
+
 .title-page{
     padding-top: 8%;
     padding-left: 6%;
