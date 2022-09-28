@@ -230,11 +230,11 @@ a {
     border-radius: 0px;
 }
 .btn:hover {
-background: #E24040;
+background: #3a2f84;
 }
 
 .btn-primary {
-    background: #CC4646;
+    background: #251c5e;
 }
 
 .form-control {
@@ -260,7 +260,7 @@ background: #E24040;
     bottom: 20px;
     right: 20px;
     z-index: 5;
-	background: #CC4646;
+	background: #251c5e;
 }
 .topHome .fa-2x {
 font-size: 20px;
@@ -272,16 +272,16 @@ margin: 4px;
 .header {
     position: fixed;
     width: 100%;
-    background: #CC4646;
+    background: #251c5e;
     z-index: 50;
     border-radius: 0;
     top: 0px;
-    border-bottom: 1px solid #F57676;
+    border-bottom: 1px solid #251c5e;
 }
 
 .navbar-inverse .navbar-toggle {
-    border-color: #CC4646;
-    background-color: #CC4646;
+    border-color: #251c5e;
+    background-color: #251c5e;
 }
 .header .navbar {
 margin: 0;
@@ -438,7 +438,7 @@ background: none;
     }
 
 .page-section h2 {
-    color: #CC4646;
+    color: #251c5e;
 }
 
 .page-section p {
@@ -606,7 +606,7 @@ margin-top: 5px;
 background-color: #D6D6D6;
 }
 .progress .progress-bar {
-background-color: #CC4646;
+background-color: #251c5e;
 }
 /*Skills*/
 
